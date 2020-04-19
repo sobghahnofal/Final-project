@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Excel Reader</string>
+    <string name="start_parsing_csv_file">Start Parsing CSV File</string>
+    <string name="start_csv_parsing">Start CSV Json</string>
+    <string name="parse_to_list">Parse To List</string>
+    <string name="go_back">Go Back</string>
+</resources>
